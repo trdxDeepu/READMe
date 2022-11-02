@@ -5,7 +5,7 @@
 
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/trdxlucifer/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trdxlucifer&label=Profile%20views&color=0e75b6&style=flat" alt="trdxlucifer" /> </p>
 
